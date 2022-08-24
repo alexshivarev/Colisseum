@@ -1,6 +1,10 @@
 # Colisseum
 ## About
 Commodus, the 18th emperor of the Roman Empire, known for his intense love of gladiator fights, wants to set up a new computer system that will allow him to keep track of the gladiator trainers and the gladiators they bought. The emperor, who heard about the excellent computing skills of the students in the data structures course, decided to contact you for the implementation of the system. The function of the system will be to hold information on all the different trainers with whom the Colosseum Council maintains contact and the different gladiators that each trainer bought, with each gladiator having information on his fighting level.
+
+All this is lyrics... :)
+
+In this work I implemented the data structure system named "Colliseum":
 ## Documentation:
 
 ### Data	Structures:
